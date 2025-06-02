@@ -1,2 +1,11 @@
-# Environment variables
+### Environment variables ###
 .env
+
+### IntelliJ IDEA ###
+.venv/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
