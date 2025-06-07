@@ -1,5 +1,5 @@
 from django.contrib import admin
-from.models import UserAuth
+from .models import UserAuth
 
 
 class UserAuthAdmin(admin.ModelAdmin):
